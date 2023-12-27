@@ -10,7 +10,7 @@ My studies are focused on Computational Science and Computational Learning.
 ## 📌 **Some interesting projects**
 
 - [`MATLAB Hackathon 27/05/2023 winning project`]([https://github.com/teobucci/slhd](https://github.com/BonfaTex/MATLABthon-27-05-23)): Developed data analysis through MATLAB Mobile App in order to speak without speaking (for istance, using a remote control device).
-- [`Advanced Computational Mechanics Report (... comings soon)`](): Analyzed a system of nonlinear equations using both Fortran and Matlab; Solved various potential problems using the BEM method.
+- [`Advanced Computational Mechanics Report (... comings soon)`](): Analyzed a system of nonlinear equations using both Abaqus and Matlab; Solved various potential problems using the BEM method using both Abaqus and Matlab.
 
 ## 🛠️ **Be different**
 During my MSc studies, I'm going to differentiate as mush as possible. In this regard I am ready to accept Internship offers, Summer Camps, Exchange Programs and so on. My aim is to put myself at the forefront in computational science fields, such as computational biomedicine and computational mechanics, or statistical fields.
@@ -29,8 +29,9 @@ During my MSc studies, I'm going to differentiate as mush as possible. In this r
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' height='28'> &nbsp
 </ul>
  
-## 🧠 **About me**
+## 🫀 **About me**
 
+- 🧠 I organize my life with a Second Brain on Notion
 - 🎞️ Favourite book: Gödel, Escher, Bach: An Eternal Golden Braid
 - 🏋🏼 I consistently work out, and I love PowerLifting
 - 📚 I love writing in 📖 $\LaTeX$ 📖
