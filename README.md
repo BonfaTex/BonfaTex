@@ -17,7 +17,7 @@ During my MSc studies, I'm going to differentiate as mush as possible. In this r
 
 ## 📫 **Get in touch**
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/matteo-bonfadini-11b100287)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/matteo-bonfadini)
 - `math11235813piday [at] gmail [dot] com`
 
 ## 🚀 **Skills**
