@@ -1,4 +1,4 @@
-# Hey folks 👋
+# Hey folks 👋🏻
 
 I'm Matteo Bonfadini, Mathematical Engineering student at Politecnico di Milano.
 My studies are focused on Computational Science and Computational Learning.
