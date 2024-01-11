@@ -14,7 +14,7 @@ My studies are focused on Computational Science and Computational Learning.
 - [`Advanced Computational Mechanics Report (... comings soon)`](): Analyzed a system of nonlinear equations and solved various potential problems using the BEM method using both Abaqus and Matlab.
 
 ## 🛠️ **Be different**
-During my MSc studies, I'm going to differentiate as mush as possible. In this regard I am ready to accept Internship offers, Summer Camps, Exchange Programs and so on. My aim is to put myself at the forefront in computational science fields, such as computational biomedicine and computational mechanics, or statistical fields.
+During my MSc studies, I'm going to differentiate myself as mush as possible. In this regard I am ready to accept Internship offers, Summer Camps, Exchange Programs and so on. My aim is to put myself at the forefront in computational science fields, such as computational biomedicine and computational mechanics, or statistical fields.
 
 ## 📫 **Get in touch**
 
