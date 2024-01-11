@@ -32,11 +32,11 @@ During my MSc studies, I'm going to differentiate as mush as possible. In this r
  
 ## 🫀 **About me**
 
-- 🧠 I organize my life with a Second Brain on Notion
+- 🧠 I organize my life through a Second Brain system on Notion
 - 🎞️ Favourite book: Gödel, Escher, Bach: An Eternal Golden Braid
-- 🏋🏼 I consistently work out, and I love PowerLifting
-- 📚 I love writing in 📖 $\LaTeX$ 📖
-- 🎧 My favorite hobby is listening to music (every kind of music)
-- 🌟 Sometimes I fall into a hole while stargazing
+- 🍜 Favourite manga: Haikyu!! 🏐, One Piece 🏴‍☠️
+- 🏋🏼 I consistently work out and PowerLifting is my gym crush (my PB are 260/170/280)
+- 📚 I love writing in 📖 $\LaTeX$ 📖 and listening to music (every kind of music)
+- 🌟 *Sometimes I fall into a hole while stargazing*
 
 Enjoy my repositories! 🚀
