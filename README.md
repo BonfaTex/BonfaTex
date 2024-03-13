@@ -10,12 +10,9 @@ My studies are focused on Computational Science and Computational Learning.
 
 ## 📌 **Some interesting projects**
 
-- [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/teobucci/slhd](https://github.com/BonfaTex/MATLABthon-27-05-23)): Developed data analysis through MATLAB Mobile App in order to speak without speaking (for istance, using a remote control device).
+- [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/BonfaTex/MATLABthon-27-05-23): Developed data analysis through MATLAB Mobile App in order to speak without speaking (for istance, using a remote control device).
 - [`Algorithms and Parallel Computing codes`](https://github.com/BonfaTex/Codes-APC): Implemented some interesting functions on C++ and MPI.
 - [`Advanced Computational Mechanics Report`](https://github.com/BonfaTex/my-ACM-report): Analyzed a system of nonlinear equations and solved various potential problems with the BEM method using both Abaqus and Matlab.
-
-## 🛠️ **Be different**
-During my MSc studies, I'm going to differentiate myself as mush as possible. In this regard I am ready to accept Internship offers, Summer Camps, Exchange Programs and so on. My aim is to put myself at the forefront in computational science fields, such as computational biomedicine and computational mechanics, or statistical fields.
 
 ## 📫 **Get in touch**
 
