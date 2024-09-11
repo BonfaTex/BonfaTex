@@ -32,8 +32,8 @@ My studies are focused on Computational Science and Computational Learning.
 
 - 🧠 I organize my life through a Second Brain system on Notion
 - 🎞️ Favourite book: Gödel, Escher, Bach: An Eternal Golden Braid
-- 🍜 Favourite manga: Haikyu!! 🏐, One Piece 🏴‍☠️
-- 🏋🏼 I consistently work out and PowerLifting is my gym crush (my PB are 260/170/280)
+- 🍜 Favourite manga: Haikyu!! 🏐, One Piece 🏴‍☠️, Naruto 🍥
+- 🏋🏼 I’m a powerlifter (PB: 260/170/280) and a running enthusiast (I'll do my first Marathon in 2025)
 - 📚 I love writing in 📖 $\LaTeX$ 📖 and listening to music (every kind of music)
 - 🌟 *Sometimes I fall into a hole while stargazing*
 
