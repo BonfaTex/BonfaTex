@@ -11,6 +11,7 @@ My studies are focused on Computational Science and Computational Learning.
 ## 📌 **Some interesting projects**
 
 - [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/BonfaTex/MATLABthon-27-05-23): Developed data analysis through MATLAB Mobile App in order to speak without speaking (for istance, using a remote control device).
+- [`Numerical Linear Algebra 1`](https://github.com/BonfaTex/MyNLAChallenge1) and [`Numerical Linear Algebra 2`](https://github.com/BonfaTex/MyNLAChallenge2): worked on image filtering and compression on C++.
 - [`Algorithms and Parallel Computing codes`](https://github.com/BonfaTex/Codes-APC): Implemented some interesting functions on C++ and MPI.
 - [`Advanced Computational Mechanics Report`](https://github.com/BonfaTex/my-ACM-report): Analyzed a system of nonlinear equations and solved various potential problems with the BEM method using both Abaqus and Matlab.
 
@@ -31,9 +32,9 @@ My studies are focused on Computational Science and Computational Learning.
 ## 🫀 **About me**
 
 - 🧠 I organize my life through a Second Brain system on Notion
-- 🎞️ Favourite book: Gödel, Escher, Bach: An Eternal Golden Braid
+- 🎞️ Favourite book: *Gödel, Escher, Bach: An Eternal Golden Braid*
 - 🍜 Favourite manga: Haikyu!! 🏐, One Piece 🏴‍☠️, Naruto 🍥
-- 🏋🏼 I’m a powerlifter (PB: 260/170/280) and a running enthusiast (I'll do my first Marathon in 2025)
+- 🏋🏼 I’m a powerlifter (PB: 260/170/280) and a 🏃🏻‍♂️ running enthusiast (My first Marathon: 17/05/2025)
 - 📚 I love writing in 📖 $\LaTeX$ 📖 and listening to music (every kind of music)
 - 🌟 *Sometimes I fall into a hole while stargazing*
 
