@@ -10,7 +10,7 @@ My studies are focused on Computational Science and Computational Learning.
 
 ## 📌 **Some interesting projects**
 
-- [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/BonfaTex/MATLABthon-27-05-23): Developed data analysis through MATLAB Mobile App in order to speak without speaking (for istance, using a remote control device).
+- [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/BonfaTex/MATLABthon-27-05-23): Developed data analysis through MATLAB Mobile App in order to comunicate without speaking (for istance, using a remote control device).
 - [`Numerical Linear Algebra 1`](https://github.com/BonfaTex/MyNLAChallenge1) and [`Numerical Linear Algebra 2`](https://github.com/BonfaTex/MyNLAChallenge2): worked on image filtering and compression on C++.
 - [`Algorithms and Parallel Computing codes`](https://github.com/BonfaTex/Codes-APC): Implemented some interesting functions on C++ and MPI.
 - [`The Boundary Element Method`](https://github.com/BonfaTex/BEM-paper-presentation): Theoretical Formulation, Numerical Approximation, and Parallel Implementation of the BEM method.
@@ -25,9 +25,17 @@ My studies are focused on Computational Science and Computational Learning.
 
 <ul>
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' height='28'>  &nbsp
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='28'>  &nbsp 
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='28'>  &nbsp 
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' height='28'> &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' height='28'>  &nbsp  
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg' height='28'> &nbsp   
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg' height='28'>  &nbsp  
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg' height='28'>  &nbsp
+        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg' height='28'>  &nbsp
 </ul>
  
 ## 🫀 **About me**
