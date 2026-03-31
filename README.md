@@ -1,12 +1,14 @@
 # Hey folks 👋🏻
 
-I'm Matteo Bonfadini, Mathematical Engineering student at Politecnico di Milano.
+I'm Matteo Bonfadini, Mathematical Engineering graduate at Politecnico di Milano.
 My studies are focused on Computational Science and Computational Learning.
 
 ## 🎓 **Education**
 
- - BSc in Mathematical Engineering at Politecnico di Milano
- - MSc in Computational Science and Computational Learning at Politecnico di Milano [ongoing]
+ - BSc in Mathematical Engineering at Politecnico di Milano 🇮🇹
+ - MSc in Mathematical Engineering (Computational Science and Computational Learning) at Politecnico di Milano 🇮🇹
+ - Exchange student at LUT University (Computational Engineering Department) 🇫🇮
+ - Experience as Junior Research Assistant at LUT University (CFD & optimization) 🇫🇮
 
 ## 📌 **Some interesting projects**
 
@@ -20,7 +22,7 @@ My studies are focused on Computational Science and Computational Learning.
 ## 📫 **Get in touch**
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-bonfadini/)
-- `math11235813piday [at] gmail [dot] com`
+- `bonfatex [at] gmail [dot] com`
 
 ## 🚀 **Skills**
 
