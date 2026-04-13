@@ -12,12 +12,13 @@ My studies are focused on Computational Science and Computational Learning.
 
 ## 📌 **Some interesting projects**
 
-- [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/BonfaTex/MATLABthon-27-05-23): Developed data analysis through MATLAB Mobile App in order to comunicate without speaking (for istance, using a remote control device).
-- [`AI & Deep Learning 1`](https://github.com/BonfaTex/DeepL-1) and [`AI & Deep Learning 2`](https://github.com/BonfaTex/DeepL-2): Solved Deep Learning challenges using Python & Colab.
+- [`CFD Laboratories`](https://github.com/BonfaTex/Fluid-Dynamics-Labs):  Solved five different Fluid Dynamics Laboratories using Phoenics and Matlab.
 - [`Numerical Linear Algebra 1`](https://github.com/BonfaTex/MyNLAChallenge1) and [`Numerical Linear Algebra 2`](https://github.com/BonfaTex/MyNLAChallenge2): Worked on image filtering and compression on C++.
 - [`Algorithms and Parallel Computing codes`](https://github.com/BonfaTex/Codes-APC): Implemented some interesting functions on C++ and MPI.
 - [`The Boundary Element Method`](https://github.com/BonfaTex/BEM-paper-presentation): Theoretical Formulation, Numerical Approximation, and Parallel Implementation of the BEM method.
 - [`Advanced Computational Mechanics Report`](https://github.com/BonfaTex/my-ACM-report): Analyzed a system of nonlinear equations and solved various potential problems with the BEM method using both Abaqus and Matlab.
+- [`AI & Deep Learning 1`](https://github.com/BonfaTex/DeepL-1) and [`AI & Deep Learning 2`](https://github.com/BonfaTex/DeepL-2): Solved Deep Learning challenges using Python & Colab.
+- [`MATLAB Hackathon 27/05/2023 winning project`](https://github.com/BonfaTex/MATLABthon-27-05-23): Developed data analysis through MATLAB Mobile App in order to comunicate without speaking (for istance, using a remote control device).
 
 ## 📫 **Get in touch**
 
@@ -40,6 +41,8 @@ My studies are focused on Computational Science and Computational Learning.
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg' height='28'>  &nbsp
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg' height='28'>  &nbsp
 </ul>
+
+and many more!!
  
 ## 🫀 **About me**
 
